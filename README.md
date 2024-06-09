@@ -22,19 +22,19 @@ Features 🌟
 Comprehensive SQL Queries: A collection of well-structured SQL queries that drive the analysis.
 Detailed Documentation: Step-by-step documentation to guide you through the project.
 Real-World Application: Simulates a real-world sales scenario, making the project relevant and practical.
-How to Explore the Project 🧐
 
+How to Explore the Project 🧐
 Clone the Repository: https://github.com/deekshithsai883/SQL-Project-for-sales
 Import the Database: Use the provided SQL script to set up the database.
 Run the Queries: Execute the SQL queries to extract insights.
 View the Dashboards: Open the Power BI file to explore the visualizations.
-Why This Project? 🤔
 
+Why This Project? 🤔
 Showcase Skills: Demonstrates proficiency in SQL, database management, and data visualization.
 Engage Recruiters: Attracts potential employers with a polished, professional project.
 Inspire Others: Provides a template and inspiration for fellow data enthusiasts.
-Get in Touch 📬
 
+Get in Touch 📬
 LinkedIn: Follow my profile for updates and insights LinkedIn :- https://www.linkedin.com/in/kavali-deekshith-1bb84728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Thank you for visiting! If you find this project interesting, please give it a ⭐ and share it with others! Let's connect and grow together in the exciting world of data. 🚀
