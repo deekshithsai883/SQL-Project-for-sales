@@ -24,7 +24,7 @@ Detailed Documentation: Step-by-step documentation to guide you through the proj
 Real-World Application: Simulates a real-world sales scenario, making the project relevant and practical.
 How to Explore the Project 🧐
 
-Clone the Repository: 
+Clone the Repository: https://github.com/deekshithsai883/SQL-Project-for-sales
 Import the Database: Use the provided SQL script to set up the database.
 Run the Queries: Execute the SQL queries to extract insights.
 View the Dashboards: Open the Power BI file to explore the visualizations.
